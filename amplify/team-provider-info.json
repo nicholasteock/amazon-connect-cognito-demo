@@ -13,7 +13,12 @@
     },
     "categories": {
       "auth": {
-        "lc60demobd596738": {}
+        "lc60demo081b79de": {
+          "userPoolId": "us-east-1_KYUUDibLx",
+          "userPoolName": "lc60demo-user-pool",
+          "webClientId": "2o19f3ttt53r0r2asoisqcnq4v",
+          "nativeClientId": "2o19f3ttt53r0r2asoisqcnq4v"
+        }
       }
     }
   }
