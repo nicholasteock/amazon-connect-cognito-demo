@@ -11,6 +11,7 @@ function App({signOut, user}) {
   return (
     <div className="App">
         <Heading level={1}>Hello {user.username}</Heading>
+        <Button onClick={signOut}>Sign Out</Button>
         <h2>Amplify Demo</h2>
     </div>
   );
