@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-lc60demo-dev-93755-authRole",
+      "UnauthRoleArn": "arn:aws:iam::304428474183:role/amplify-lc60demo-dev-93755-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::304428474183:role/amplify-lc60demo-dev-93755-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-lc60demo-dev-93755-deployment",
+      "UnauthRoleName": "amplify-lc60demo-dev-93755-unauthRole",
+      "StackName": "amplify-lc60demo-dev-93755",
+      "StackId": "arn:aws:cloudformation:us-east-1:304428474183:stack/amplify-lc60demo-dev-93755/ba0241c0-a03e-11ed-b3a1-125587893d59",
+      "AmplifyAppId": "d3jvcb7h0dzqfu"
+    },
+    "categories": {
+      "auth": {
+        "lc60demobd596738": {}
+      }
+    }
+  }
+}
