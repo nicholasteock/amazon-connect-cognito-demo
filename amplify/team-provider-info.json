@@ -21,5 +21,28 @@
         }
       }
     }
+  },
+  "production": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-lc60demo-production-15945-authRole",
+      "UnauthRoleArn": "arn:aws:iam::304428474183:role/amplify-lc60demo-production-15945-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::304428474183:role/amplify-lc60demo-production-15945-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-lc60demo-production-15945-deployment",
+      "UnauthRoleName": "amplify-lc60demo-production-15945-unauthRole",
+      "StackName": "amplify-lc60demo-production-15945",
+      "StackId": "arn:aws:cloudformation:us-east-1:304428474183:stack/amplify-lc60demo-production-15945/c550d200-a041-11ed-a478-12abc34ccd57",
+      "AmplifyAppId": "d3jvcb7h0dzqfu"
+    },
+    "categories": {
+      "auth": {
+        "lc60demo36703505": {
+          "userPoolId": "us-east-1_KYUUDibLx",
+          "userPoolName": "lc60demo-user-pool",
+          "webClientId": "2o19f3ttt53r0r2asoisqcnq4v",
+          "nativeClientId": "2o19f3ttt53r0r2asoisqcnq4v"
+        }
+      }
+    }
   }
 }
