@@ -12,6 +12,7 @@ function App(signOut, user) {
         <h2>Amplify Demo</h2>
       </div>
     </div>
+  );
 }
 
 export default App;
